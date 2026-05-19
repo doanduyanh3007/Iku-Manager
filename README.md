@@ -292,13 +292,13 @@ Dự án đã tích hợp sẵn **Swagger UI** để test API trực quan thay v
 
 ## 👨‍💻 Thông tin sinh viên
 
-Họ tên: Hoàng Nam Khánh
+Họ tên: Đoàn Duy Anh
 
 Vị trí: Thực tập sinh Backend Java
 
 Công nghệ: Java – Spring Boot
 
-GitHub: https://github.com/hkhanh0402
+GitHub: https://github.com/doanduyanh3007
 
 ---
 
